@@ -5,11 +5,14 @@ syntax on
 
 filetype indent on
 
-set ai
-set si
+set autoindent
+set smartindent
 set tabstop=2
 set shiftwidth=2
 set expandtab
+
+set incsearch
+set hlsearch
 
 set encoding=utf-8
 
