@@ -14,6 +14,12 @@ set expandtab
 set incsearch
 set hlsearch
 
+set wildmenu
+set wildmode=longest,list
+set wildignore+=*.bmp,*.gif,*.ico,*.jpg,*.png
+
+set hidden
+
 set encoding=utf-8
 
 
