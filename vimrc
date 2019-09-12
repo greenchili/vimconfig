@@ -57,7 +57,10 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 let g:UltiSnipsEditSplit="vertical"
 let g:UltiSnipsSnippetDirectories = ['~/.vim/UltiSnips', 'UltiSnips']
 
-" Disable arrow keys :)
+" Remap jk to escape
+inoremap kj <esc>
+
+"Disable arrow keys :)
 noremap <Up> <Nop>
 noremap <Down> <Nop>
 noremap <Left> <Nop>
