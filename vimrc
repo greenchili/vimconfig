@@ -37,7 +37,8 @@ Plug 'SirVer/ultisnips'
 Plug 'morhetz/gruvbox'
 Plug 'mhinz/vim-startify'
 Plug 'vim-scripts/HJKL'
-"Plug 'honza/vim-snippets'
+Plug 'davidhalter/jedi-vim'
+" Plug 'honza/vim-snippets'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
