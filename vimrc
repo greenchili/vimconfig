@@ -60,6 +60,7 @@ let g:UltiSnipsSnippetDirectories = ['~/.vim/UltiSnips', 'UltiSnips']
 
 " Remap jk to escape
 inoremap kj <esc>
+inoremap jk <esc>
 
 "Disable arrow keys :)
 noremap <Up> <Nop>
